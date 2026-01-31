@@ -1,0 +1,12 @@
+python-coding-journey/
+│
+├── Day-01/
+│   └── basics.py
+│
+├── Day-02/
+│   └── countdown_timer.py
+│
+├── Day-03/
+│   └── even_odd_checker.py
+│
+└── README.md
