@@ -1,0 +1,7 @@
+### Day 3 – Even or Odd Checker
+- Learned about the modulo (%) operator
+- Used if-else conditions
+- Built a program to check whether a number is even or odd
+
+File:
+- `even_odd_checker.py`
